@@ -1,4 +1,4 @@
-<h1>Oii,eu sou o Vitor Campos 👋</h1>
+<h1>Oii, eu sou o Vitor Campos 👋</h1>
 
 - 🔭 Atualmente estou estudando frontEnd
 - 🌱 Estou aprendendo e me desenvolvendo na trybe
