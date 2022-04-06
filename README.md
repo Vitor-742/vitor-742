@@ -5,3 +5,6 @@
 - 🌱 Estou aprendendo e me desenvolvendo na trybe
 - 📫 Email para contato: vitorcampos742@gmail.com
 - 👤 Linkedin: https://www.linkedin.com/in/vitorcampos742/
+
+<i class="devicon-html5-plain-wordmark colored"></i>
+          
