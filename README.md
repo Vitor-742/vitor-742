@@ -1,7 +1,6 @@
 <h1>Oii, eu sou o Vitor Campos 👋</h1>
 
-- 🔧 Sou desenvolvedor FullStack Jr
-<!-- - 🔭 Atualmente estou estudando Ciência da Computação -->
+- 🔧 Sou desenvolvedor FullStack Jr<!-- - 🔭 Atualmente estou estudando Ciência da Computação -->
 - 🌱 Me desenvolvi na Trybe
 - 📫 Email para contato: vitorcampos742@gmail.com
 - 👤 Linkedin: https://www.linkedin.com/in/vitorcampos742/
