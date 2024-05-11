@@ -1,7 +1,7 @@
 <h1>Oii, eu sou o Vitor Campos 👋</h1>
 
-- 🔧 Sou desenvolvedor FullStack
-- 🌱 Me desenvolvendo todos os dias
+- 🔧 Sou desenvolvedor FullStack/BackEnd
+- 🌱 Me desenvolvendo SEMPRE
 - 📫 Email para contato: vitorcampos742@gmail.com
 - 👤 Linkedin: https://www.linkedin.com/in/vitorcampos742/
 - 💡 Tecnologias que aplico:
